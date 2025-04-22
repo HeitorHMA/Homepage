@@ -1,0 +1,28 @@
+.aboutMeBox{
+    display: flex;
+    flex-direction: row;
+    padding: 5px;
+    align-items:center;
+}
+.aboutMeImg{
+    background-color: black;
+    height: 200px;
+    width: 600px;
+}
+.aboutMeTxt{
+    display: flex;
+    flex-direction: column;
+    margin: 0%;
+}
+#txtItem{
+    margin: 1px
+}
+.linksBox{
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+}
+#link{
+    padding-left:5px;
+    padding-right: 5px;
+}
