@@ -7,7 +7,7 @@
 .aboutMeImg{
     background-color: black;
     height: 200px;
-    width: 600px;
+    width: 700px;
 }
 .aboutMeTxt{
     display: flex;
@@ -25,4 +25,24 @@
 #link{
     padding-left:5px;
     padding-right: 5px;
+    height: 20px;
+    width: 20px;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+    align-items: center;
+}
+.myWorkBox{
+    margin: 30px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.projectBoxProto{
+    height: 200px;
+    width: 300px;
+    background-color: aqua;
+    margin: 10px;
+   
 }
